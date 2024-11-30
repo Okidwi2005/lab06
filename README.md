@@ -92,3 +92,35 @@ menu()
 
 ## Flowchart
 ![FLOWCHART06](https://github.com/user-attachments/assets/474243a8-720f-4231-b153-1a5eb87ad03e)
+## Penjelasan Flowchart
+1. Start
+Flowchart dimulai dari blok Start sebagai awal eksekusi program.
+
+2. Deklarasi Variabel Mahasiswa
+Ada proses inisialisasi atau deklarasi variabel yang digunakan untuk menyimpan data mahasiswa, dalam hal ini tipe datanya adalah Integer.
+
+3. Pilihan Menu
+Terdapat cabang logika yang memberikan opsi kepada pengguna untuk memilih salah satu dari beberapa menu:
+
+  - 1: Menambahkan Data Mahasiswa
+  - 2: Menampilkan Data Mahasiswa
+  - 3: Menghapus Data Mahasiswa
+  - 4: Mengubah Data Mahasiswa
+4. Input User
+Pengguna akan diminta untuk memasukkan input berdasarkan menu yang diinginkan.
+
+5. Proses Berdasarkan Input User
+
+  - Input = 1 (Menambahkan Data Mahasiswa):
+Jika pengguna memilih opsi 1, program akan menjalankan fungsi untuk menambahkan data mahasiswa.
+  - Input = 2 (Menampilkan Data Mahasiswa):
+Jika pengguna memilih opsi 2, program akan menjalankan fungsi untuk menampilkan semua data mahasiswa.
+  - Input = 3 (Menghapus Data Mahasiswa):
+Jika pengguna memilih opsi 3, pengguna akan diminta untuk memasukkan nama mahasiswa yang akan dihapus, kemudian data tersebut dihapus dari daftar.
+  - Input = 4 (Mengubah Data Mahasiswa):
+Jika pengguna memilih opsi 4, pengguna diminta memasukkan nama mahasiswa yang datanya ingin diubah, lalu program mengubah data mahasiswa tersebut.
+6. Pilihan Lain (Jika Input Salah atau Keluar)
+
+Jika input tidak sesuai dengan 1-4, flowchart akan memberikan pesan "Terima kasih sudah memilih" dan program akan berhenti (Break).
+7. End
+Setelah semua proses selesai, flowchart mencapai blok End, yang menandakan bahwa eksekusi program telah selesai.
