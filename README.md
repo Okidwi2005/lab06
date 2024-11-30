@@ -76,3 +76,19 @@ def menu():
 # Menjalankan program
 menu()
 ```
+
+## Output progran
+![Screenshot 2024-11-30 140653](https://github.com/user-attachments/assets/a73d1610-4441-4bbf-9125-12eaf4102330)
+![Screenshot 2024-11-30 140725](https://github.com/user-attachments/assets/f436c93b-1d73-4911-a965-ab8f8cacdb29)
+
+## Penjelasan program
+1. Program menggunakan daftar (list) untuk menyimpan data mahasiswa sebagai elemen berupa dictionary dengan kunci "nama" dan "nilai".
+2. Fungsi yang disediakan:
+  - Tambah(nama, nilai): Menambahkan data mahasiswa.
+  - Tampilkan(): Menampilkan semua data mahasiswa.
+  - Hapus(nama): Menghapus data mahasiswa berdasarkan nama (case-insensitive).
+  - Ubah(nama, nilai_baru): Mengubah nilai mahasiswa berdasarkan nama.
+3. Menu utama memungkinkan pengguna untuk memilih salah satu dari fungsi tersebut, dan prosesnya akan terus berjalan hingga pengguna memilih opsi "Keluar".
+
+## Flowchart
+![FLOWCHART06](https://github.com/user-attachments/assets/474243a8-720f-4231-b153-1a5eb87ad03e)
