@@ -120,7 +120,6 @@ Jika pengguna memilih opsi 3, pengguna akan diminta untuk memasukkan nama mahasi
   - Input = 4 (Mengubah Data Mahasiswa):
 Jika pengguna memilih opsi 4, pengguna diminta memasukkan nama mahasiswa yang datanya ingin diubah, lalu program mengubah data mahasiswa tersebut.
 6. Pilihan Lain (Jika Input Salah atau Keluar)
-
-Jika input tidak sesuai dengan 1-4, flowchart akan memberikan pesan "Terima kasih sudah memilih" dan program akan berhenti (Break).
+  - Jika input tidak sesuai dengan 1-4, flowchart akan memberikan pesan "Terima kasih sudah memilih" dan program akan berhenti (Break).
 7. End
 Setelah semua proses selesai, flowchart mencapai blok End, yang menandakan bahwa eksekusi program telah selesai.
